@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "391123428517",
+    "project_id": "brewcrew-8218e",
+    "storage_bucket": "brewcrew-8218e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391123428517:android:139fdc8f6751cd1b76194c",
+        "android_client_info": {
+          "package_name": "com.example.lab6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391123428517-7nmvgildsvsded297d0nsirol7enh0eo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCziea7stzAFgxCkS8FcMhdDZsW-xAvDdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391123428517-7nmvgildsvsded297d0nsirol7enh0eo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "391123428517-bg9rak0ebmm30hkt41qo845dp5e0sorg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.lab6"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
